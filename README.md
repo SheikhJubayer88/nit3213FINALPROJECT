@@ -74,9 +74,4 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture with the follow
 
 ---
 
-## 🔧 Setup Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/vu-iapp.git
-   cd vu-iapp
