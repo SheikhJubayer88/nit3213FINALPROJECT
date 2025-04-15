@@ -74,4 +74,36 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture with the follow
 
 ---
 
+## 🧪 How to Build & Run
+
+### 📦 Prerequisites:
+- Android Studio Giraffe/Arctic Fox or later
+- Android SDK 17
+- Kotlin 1.9+
+- Internet connection (for API requests)
+
+### 🚀 Steps to Run:
+
+#### 1. Clone the Repository
+```bash
+git clone https://github.com/SheikhJubayer88/nit3213FINALPROJECT.git
+cd nit3213FINALPROJECT
+```
+#### 2. Open the Project in Android Studio
+- Launch Android Studio
+- Click on File → Open
+- Navigate to the cloned folder nit3213FINALPROJECT
+- Click OK to open the project
+
+#### 3. Sync Gradle & Resolve Dependencies
+- Android Studio should automatically sync the project
+- If it doesn't, go to File → Sync Project with Gradle Files
+- Wait until the Gradle build completes successfully
+
+#### 4. Run the App
+- Click on the green Run ▶️ button at the top
+- Choose a connected physical device or launch an emulator (e.g., Pixel API 33)
+- Wait for the app to install and launch
+
+
 
